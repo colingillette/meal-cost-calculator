@@ -1,0 +1,9 @@
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\bin\Debug\MealCostCalculator.exe.config
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\bin\Debug\MealCostCalculator.exe
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\bin\Debug\MealCostCalculator.pdb
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.csprojResolveAssemblyReference.cache
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.Form1.resources
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.Properties.Resources.resources
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.csproj.GenerateResource.Cache
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.exe
+E:\MSU\CIS 266 C#\Assignments\Meal Cost Calculator\MealCostCalculator\MealCostCalculator\obj\Debug\MealCostCalculator.pdb
